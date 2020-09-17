@@ -4,13 +4,13 @@
 
 ### Sobre mim:
 
-💻 Desenvolvedor em HTML, CSS e JavaScript. :tw-1f600:
+💻 Desenvolvedor em HTML, CSS e JavaScript. 😄
 
-:tw-1f50e: Esou sempre em busca de aperfeiçoar minhas habilidades e conhecimentos tecnológicos.
+🔎 Esou sempre em busca de aperfeiçoar minhas habilidades e conhecimentos tecnológicos.
 
-:tw-1f4d5: Estudante da linguagem JavaScript.
+📕 Estudante da linguagem JavaScript.
 
-:tw-1f52d: Tecnologia em Análise e Desenvolvimento de Sistemas.
+✍ Tecnologia em Análise e Desenvolvimento de Sistemas.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardodsr/)](https://github.com/fernandocesaralves)
 
