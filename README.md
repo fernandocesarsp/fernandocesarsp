@@ -1,6 +1,6 @@
 <h1 align="center">Fernando César de Jesus Alves</h1>
 
-### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> Bem vindo ao meu portfólio!
+### Hi! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="25"> Welcome to my portfolio!
 
 ### Sobre mim:
 
