@@ -23,7 +23,8 @@
 
 ### Projetos em andamento:
 
-✔️ FrontEnd do Zero ao Profissional - Prof. Bonieky Lacerda - Curso FrontEnd do Zero ao Profissional - EaD (2020).
+✔️ Web Design Express
+✔️ Lógica de Programação com Javascript
 
 
 
