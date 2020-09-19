@@ -23,7 +23,7 @@
 
 ### Projetos em andamento:
 
-✔️ FrontEnd do Zero ao Profissional
+✔️ 
 
 ✔️ Lógica de Programação com Javascript
 
