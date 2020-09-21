@@ -27,6 +27,8 @@
 
 ✔️ Lógica de Programação com Javascript
 
+✔️ FrontEnd do Zero ao Profissional
+
 
 
 ## Contatos:mailbox_with_no_mail:
