@@ -25,6 +25,7 @@
 
 ✔️ Web Design Express
 
+✔️ Lógica de Programação com Javascript
 
 
 ## Contatos:mailbox_with_no_mail:
