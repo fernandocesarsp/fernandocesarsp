@@ -23,7 +23,7 @@
 
 ### Projetos em andamento:
 
-✔️ Web Design Express
+✔️ FrontEnd do Zero ao Profissional
 
 ✔️ Lógica de Programação com Javascript
 
