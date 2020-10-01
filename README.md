@@ -21,11 +21,6 @@
 ✔️ JavaScript
 
 
-### Projetos em andamento:
-
-✔️ Curso Web Design Completo HTML5, CSS3 e JS + 5 Projetos
-
-
 ## Contatos:mailbox_with_no_mail:
 
 :email: : fernandocesar.alves@hotmail.com
